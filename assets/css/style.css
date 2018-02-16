@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    color:white;
+    font-size: 68px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.start{
+    font-size: 68px;
+    margin: auto;
+    margin-top: 20rem;
+}
+.mainbody{
+    border: 1px solid blue;
+    border-radius: 25px;
+    height: 450px;
+    margin-top: 30px;
+    margin: auto;
+}
+.question{
+    margin-top:50px;
+    font-size: 28px;
+    color:grey;
+}
+.answers{
+    margin-top:30px;
+    font-size: 24px;
+}
+.result-correct{
+    margin-top:40px;
+    font-size: 52px;
+    color: green;
+}
+.result-wrong{
+    margin-top:40px;
+    font-size: 52px;
+    color:red;
+}
+.result-outoftime{
+    margin-top:40px;
+    font-size: 52px;
+    color:orange;
+}
+.image{
+    margin: auto;
+    margin-top: 35px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
